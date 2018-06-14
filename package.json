@@ -6,6 +6,10 @@
   "scripts": {
     "test": "node test/main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vvisigoth/urbit-ob.git"
+  },
   "keywords": [
     "urbit"
   ],
